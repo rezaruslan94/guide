@@ -1,5 +1,7 @@
 gem install hirb
+
 add = gem 'hirb-unicode' in gemfile
+
 bundle install
 
 reference : https://github.com/cldwalker/hirb
